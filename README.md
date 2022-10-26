@@ -1,3 +1,3 @@
 # EE201-REPO-LOCAL
 ee 201 fall
-![PCB image.png](./image.png)
+![image info](./C:\Users\12630\Desktop\EE201 REPO LOCAL)
